@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Blosc/python-blosc/commit/d80d533dab65f7e64868afb2746afa3453d6cd04",
       "git:hexsha": "d80d533dab65f7e64868afb2746afa3453d6cd04",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Blosc/python-blosc/commit/1974a8397d5d6da4002a6b641d82f91b8ff1ed2d",
